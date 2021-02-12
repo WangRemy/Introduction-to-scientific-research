@@ -1,2 +1,2 @@
-# iwo
-This contains the python programs and the word lists i used.
+# Introduction to scientific research
+This repository contains the python files and the word lists I used.
